@@ -2,3 +2,5 @@ Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um
 
 Nova linha na nova branch
 3 linha na branch change_alice
+
+4 linha na branch master
